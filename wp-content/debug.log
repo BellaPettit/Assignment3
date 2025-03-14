@@ -1,0 +1,47 @@
+[14-Mar-2025 23:55:00 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /workspaces/Assignment3/.wordpress/wp-admin/includes/class-theme-upgrader.php on line 160
+[14-Mar-2025 23:56:46 UTC] PHP Fatal error:  Out of memory (allocated 50331648) (tried to allocate 204800 bytes) in /workspaces/Assignment3/.wordpress/wp-includes/class-wp-scripts.php on line 608
+[14-Mar-2025 23:56:49 UTC] PHP Fatal error:  Out of memory (allocated 44040192) (tried to allocate 2097152 bytes) in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/conditionals.php on line 1138
+[14-Mar-2025 23:56:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_integration_type() in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:126
+Stack trace:
+#0 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(99): IC_EPC_Tracking->get_integration_type()
+#1 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#2 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#3 [internal function]: IC_EPC_Tracking->fatal()
+#4 {main}
+  thrown in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 126
+[14-Mar-2025 23:56:51 UTC] PHP Fatal error:  Out of memory (allocated 37748736) (tried to allocate 2097152 bytes) in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/conditionals.php on line 1138
+[14-Mar-2025 23:56:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_integration_type() in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:126
+Stack trace:
+#0 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(99): IC_EPC_Tracking->get_integration_type()
+#1 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#2 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#3 [internal function]: IC_EPC_Tracking->fatal()
+#4 {main}
+  thrown in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 126
+[14-Mar-2025 23:57:01 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/conditionals.php on line 1125
+[14-Mar-2025 23:57:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_integration_type() in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:126
+Stack trace:
+#0 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(99): IC_EPC_Tracking->get_integration_type()
+#1 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#2 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#3 [internal function]: IC_EPC_Tracking->fatal()
+#4 {main}
+  thrown in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 126
+[14-Mar-2025 23:57:24 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/conditionals.php on line 1127
+[14-Mar-2025 23:57:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_integration_type() in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:126
+Stack trace:
+#0 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(99): IC_EPC_Tracking->get_integration_type()
+#1 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#2 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#3 [internal function]: IC_EPC_Tracking->fatal()
+#4 {main}
+  thrown in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 126
+[14-Mar-2025 23:57:35 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/conditionals.php on line 1127
+[14-Mar-2025 23:57:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_integration_type() in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:126
+Stack trace:
+#0 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(99): IC_EPC_Tracking->get_integration_type()
+#1 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#2 /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#3 [internal function]: IC_EPC_Tracking->fatal()
+#4 {main}
+  thrown in /workspaces/Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 126
